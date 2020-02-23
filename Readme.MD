@@ -1,0 +1,1 @@
+Spring Cloud configuraton server for the Friennect social app.
